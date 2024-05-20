@@ -51,12 +51,13 @@ use Rarity Number accordingly rarity Map
 - `/top` - List the users with biggest harem (globally)
 - `/ctop` - List the users with biggest harem (current chat)
 - `/changetime` - Change the frequency of character spawn
-  
+ 
 ## SUDO USER COMMANDS..
 - `/upload` - Add a new character to the database 
 - `/delete` - Delete a character from the database 
 - `/update` - Update stats of a character in the database 
-
+- `/WbyO` - gifting by owner any waifu
+  
 ## OWNER COMMANDS
 - `/ping` - Pings the bot and sends a response
 - `/stats` - Lists number or groups and users
