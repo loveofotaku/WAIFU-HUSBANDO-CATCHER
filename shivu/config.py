@@ -2,18 +2,18 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    OWNER_ID = "6765826972"
+    OWNER_ID = "5143645152"
     sudo_users = "6845325416", "6765826972"
-    GROUP_ID = -1002133191051
-    TOKEN = "6707490163:AAHZzqjm3rbEZsObRiNaT7DMtw_i5WPo_0o"
-    mongo_url = "mongodb+srv://HaremDBBot:ThisIsPasswordForHaremDB@haremdb.swzjngj.mongodb.net/?retryWrites=true&w=majority"
+    GROUP_ID = -1002030481292
+    TOKEN = "7292911935:AAGe2y2WGi40O68n_wVMh1I6bluosstlotE"
+    mongo_url = "mongodb+srv://Bankaieditz8:Ald4O4nBkhL2q5MQ@gurubhai.pkocnim.mongodb.net/?retryWrites=true&w=majority&appName=Gurubhai"
     PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
-    SUPPORT_CHAT = "Collect_em_support"
-    UPDATE_CHAT = "Collect_em_support"
-    BOT_USERNAME = "Collect_Em_AllBot"
-    CHARA_CHANNEL_ID = "-1002133191051"
-    api_id = 26626068
-    api_hash = "bf423698bcbe33cfd58b11c78c42caa2"
+    SUPPORT_CHAT = "toman_gang_official"
+    UPDATE_CHAT = "toman_gang_official"
+    BOT_USERNAME = "Toman_waifu_bot"
+    CHARA_CHANNEL_ID = "-1002033375935"
+    api_id = 10422108
+    api_hash = "3f5669f843ceaebe022b858474dc7b26"
 
     
 class Production(Config):
